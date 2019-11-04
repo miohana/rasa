@@ -24,6 +24,7 @@ Removed
 Fixed
 -----
 - Fixed exporting NLU training data in ``json`` format from ``rasa interactive``
+- Fixed tensorfow deprecation warnings showing in ``rasa`` installed via ``pip``
 
 [1.4.3] - 2019-10-29
 ^^^^^^^^^^^^^^^^^^^^
