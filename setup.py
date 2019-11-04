@@ -34,7 +34,7 @@ install_requires = [
     "jsonpickle~=1.1",
     "redis~=3.3.5",
     "pymongo[tls,srv]~=3.8",
-    "numpy~=1.16",
+    "numpy~=1.16.0",
     "scipy~=1.2",
     "tensorflow~=1.14.0",
     # absl is a tensorflow dependency, but produces double logging before 0.8
